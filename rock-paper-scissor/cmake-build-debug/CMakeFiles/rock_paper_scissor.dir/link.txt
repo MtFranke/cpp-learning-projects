@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/rock_paper_scissor.dir/src/main.cpp.o CMakeFiles/rock_paper_scissor.dir/src/sign.cpp.o CMakeFiles/rock_paper_scissor.dir/src/game.cpp.o CMakeFiles/rock_paper_scissor.dir/src/player.cpp.o -o rock_paper_scissor
