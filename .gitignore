@@ -35,8 +35,8 @@
 .idea
 
 # Ignore build directories
-/cmake-build-debug/
-/cmake-build-release/
+*/cmake-build-debug/
+*/cmake-build-release/
 
 # Ignore CMake cache and output files
 CMakeCache.txt
