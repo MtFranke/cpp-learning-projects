@@ -2,5 +2,6 @@
 This repository is a collection of small, self-contained C++ projects .
 
 ## Projects
-- Casino Number Guessing
-- Rock Paper Scissors
+- Casino number guessing
+- Rock-Paper-Scissors
+- Fibonacci numbers
