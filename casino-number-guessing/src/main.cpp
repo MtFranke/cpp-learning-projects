@@ -18,18 +18,16 @@ public:
     };
     bool Roll() {
         int randomNumber = random_number();
-        if (_guess == randomNumber) {
+        if (_guess == randomNumber) 
+        {
             cout << "You won!" << endl;
             return true;
         }
-
+        
         cout << "You lost! casino wanted a "<< randomNumber << endl;
         return false;
-
     }
 };
-
-
 
 int main() {
 

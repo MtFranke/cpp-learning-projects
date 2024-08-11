@@ -63,3 +63,10 @@ Thumbs.db
 # Ignore CLion and other IDE configuration files
 .idea/
 *.iml
+
+# VS Code
+.vscode
+
+
+# Builds
+build/
